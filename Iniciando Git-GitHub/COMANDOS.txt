@@ -1,0 +1,57 @@
+ 1060  git ver
+ 1061  git --version 
+ 1062  git clone https://github.com/akranz79/dio-desafio-github.git
+ 1065  cd dio-desafio-github/
+ 1077  cd dio-desafio-github/
+ 1079* git status 
+ 1084  git status 
+ 1086  git status 
+ 1087  git add .
+ 1088  git status 
+ 1089  git commit -m "Inclusao da pasta Introducao Git-GitHub"
+ 1090  git config --global user.email "ahkranz79@gmail.com"
+ 1091  git commit -m "Inclusao da pasta Introducao Git-GitHub"
+ 1092  git config --global user.name "akranz79"
+ 1093  git status 
+ 1094  git push origin main 
+ 1095  git --help
+ 1096  git -c 
+ 1097  git -c ahkranz79
+ 1098  git log
+ 1099  git show
+ 1100  git status 
+ 1101  git login
+ 1102  git --login
+ 1103  git --ver
+ 1104  git --version 
+ 1105  git show main 
+ 1106  git -c 
+ 1107  git -c akranz79
+ 1108  git push origin main 
+ 1109  git config --global status.
+ 1117  git push origin main 
+ 1125  git push origin main 
+ 1127  cd dio-desafio-github/
+ 1128  git push origin main 
+ 1134  git clone git@github.com:akranz79/dio-desafio-github.git
+ 1136  git push origin main 
+ 1137  cd dio-desafio-github/
+ 1138  git push origin main 
+ 1153  rmdir .git
+ 1154  cd .git
+ 1205  rmdir .git
+ 1207  cd git
+ 1208  cd .git
+ 1294  rmdir .git
+ 1298  rmdir dio-desafio-github/
+ 1300  git clone git@github.com:akranz79/dio-desafio-github.git
+ 1302  cd dio-desafio-github/
+ 1306  git status [
+ 1308  git status 
+ 1309  git add .
+ 1310  git status 
+ 1311  git commit -m "Inclusao da pasta Iniciando GitHub e Comandos Git"
+ 1312  git status 
+ 1313  git push origin main 
+ 1315  history | grep git
+ 1322  history | grep git > COMANDOS.txt 
